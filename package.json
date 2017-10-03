@@ -1,0 +1,9 @@
+{
+  "title": "Valuuttamuunnin",
+  "description": "Tabris.js - Vmuunnin",
+  "category": "Small Apps",
+  "main": "src/vmuunnin.js",
+  "dependencies": {
+    "tabris": "^2.1.0"
+  }
+}
